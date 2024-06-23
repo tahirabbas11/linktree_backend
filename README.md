@@ -1,4 +1,4 @@
-# RESTful API Node Server Boilerplate
+# RESTful API LinkTree Backend(node.js)
 
 A boilerplate/starter project for quickly building RESTful APIs using Node.js, Express, and Mongoose.
 
